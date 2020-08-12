@@ -6,7 +6,7 @@ Com a intenção de criar um ambiente interativo e simplista, este projeto possu
 - Contrução do ambiente e importação do streamlit e ngrok (cria o link de acesso pelo navegador);
 - Leitura e agrupamentos dos dados utilizando pandas.
 
-Colunas do dataset:
+Colunas do dataset "trilha-deadcells.csv":
 - runid
 - lastDungeon
 - gear01
