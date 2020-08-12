@@ -1,0 +1,19 @@
+run_id,lastDungeon,gear01,gear01ScaleWith,gear02,gear02ScaleWith,gear03,gear03ScaleWith,gear04,gear04ScaleWith,Brutality,Tactical,Survivor,totalScrolls,bonusColar,lifeValue,mutation01,mutation02,mutation03,beatGiant?,beatTimeGuardian?,beatHandOfTheKing?,deathBy,death?
+1,pico-do-castelo,quick_bow,tatica,gold_shield,survivor,oil_grenade,brutal/tatica,owl_of_war,tatica,4,7,13,-,-,-,-,-,-,1,1,0,hand of the king,1
+2,pico-do-castelo,pyromancer,tatica,venom-carbine,brutal/tatica,lacerator,tatica,wolf-trap,tatica/survivor,5,20,8,-,-,-,-,-,-,1,1,0,hand of the king,1
+3,santuario,large-sword,brutal/survivor,cudgel,survivor,teleport,brutal/tatica,lacerator,tatica,6,3,12,-,-,-,-,-,-,1,0,0,golem,1
+4,torre,adagas-gemeas,brutal,knockback-shield,tatica/survivor,vampirismo,brutal/survivor,fire-grenade,brutal,7,4,9,-,-,-,-,-,-,0,0,0,red-bird,1
+5,alameda-condenados,pyromancer,tatica,ice-explosion,tatica/survivor,fire-grenade,brutal,-,-,2,7,3,-,-,-,-,-,-,0,0,0,green-bird,1
+6,vila-fedorenta,adaga-afiada,brutal/tatica,ice-explosion,tatica/survivor,teleport,brutal/tatica,fragmented-grenade,brutal,4,12,6,-,-,-,-,-,-,1,0,0,pirata,1
+7,alameda-condenados,pederneira,brutal/survivor,tower-shield,survivor,teleport,brutal/tatica,corrupted-power,brutal/tatica,6,2,4,-,-,-,-,-,-,0,0,0,unknown,1
+8,alameda-condenados,equilança,brutal/survivor,hokuto-bow,brutal/tatica,double-teleport,brutal/tatica,power-grenade,brutal/survivor,6,4,3,-,-,-,-,-,-,0,0,0,unknown,1
+9,alameda-condenados,frying-pan,brutal,parry-shield,tatica/survivor,power-grenade,brutal/survivor,wolf-trap,tatica/survivor,5,3,6,-,-,-,-,-,-,0,0,0,curse,1
+10,profundezas-prisao,chicote-com-ponta,brutal,ice-explosion,tatica/survivor,teleport,brutal/tatica,ice-grenade,tatica/survivor,2,3,8,-,-,-,-,-,-,0,0,0,curse,1
+11,alameda-condenados,adaga-afiada,brutal/tatica,ice-shield,survivor,teleport,brutal/tatica,wolf-trap,tatica/survivor,3,9,6,-,-,-,-,-,-,1,0,0,zombie,1
+12,profundezas-prisao,tritura-carne,brutal/tatica,knockback-shield,tatica/survivor,double-teleport,brutal/tatica,heavy-turret,tatica,5,11,5,-,-,-,-,-,-,0,0,0,unknown,1
+13,profundezas-prisao,tritura-carne,brutal/tatica,gold-shield,survivor,teleport,brutal/tatica,wolf-trap,tatica/survivor,4,8,3,-,-,-,-,-,-,0,0,0,kunglao-guard,1
+15,alojamento-dos-prisioneiros,metralhabow,tatica,knockback-shield,tatica/survivor,-,-,-,-,1,2,3,-,-,450,-,-,-,0,0,0,invocador,1
+16,ponte-noturna,chicote-valmont,brutal/tatico,cudgel,survivor,lacerator,tatico,wolf-trap,tatica/survivor,5,12,6,12,-5% de dano,8370,plano,descaso,o que não mata,1,0,0,gordinho-machado,1
+17,alojamento-dos-prisioneiros,arco-multi,tatico/survivor,spiked-shield,survivor,-,-,-,-,1,1,4,1,-,310,-,-,-,0,0,0,reset,1
+18,profundezas-prisao,tritura-carne,brutal/tatico,knockback-shield,tatica/survivor,double-teleport,brutal,corrupted-power,brutal/tatica,10,3,4,4,veneno-não-afeta,1713,instinto-assassino,descaso,-,0,0,0,kunglao-guard,1
+19,ossuario,quick_bow,tatica,punishment,survivor,lacerator,tatica,wolf-trap,survivor,3,9,7,8,pulo-extra,5196,contra-ataque,munição-extra,descaso,1,0,0,-,1
