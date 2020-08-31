@@ -1,0 +1,200 @@
+Gear Position,Class,Name,Description,Base DPS,Base Special DPS
+gear1/2,melee,Rusty Sword,Kills things. Sometimes...,138 DPS,N/A
+gear1/2,melee,Balanced Blade,Damage increases up to +50% when you strike repeatedly. Inflicts critical hits after 10 successive hits.,118 DPS,185 critical DPS278 max DPS
+gear1/2,melee,Twin Daggers,Inflicts a critical hit on the 3rd consecutive strike.Two daggers for the price of one. Slice and dice... guaranteed to please.,154 DPS,238 critical DPS
+gear1/2,melee,Nutcracker,"Inflicts a critical hit if the victim is stunned, frozen or rooted.",155 DPS,386 critical DPS
+gear1/2,melee,Blood Sword,Causes bleeding (5 DPS for 12 sec).,122 DPS,5 bleeding DPS
+gear1/2,melee,Spartan Sandals,"Knocks back enemies, dealing damage where they land. Deals 90 extra damage if the enemy hits a wall. The final strike in the combo will knock back any enemy.This. Is. DEAD CELLS!",32 DPS,90 bonus damage
+gear1/2,melee,Oiled Sword,Douses the enemy with inflammable oil and inflict critical hits during 10 sec after hitting an enemy on fire.,149 DPS,224 critical DPS
+gear1/2,melee,Broadsword,"The second and third hits are critical.Slow and heavy, but deliciously vicious.",164 DPS,273 critical DPS
+gear1/2,melee,Assassin's Dagger,Inflicts a critical hit when you stab your enemy in the back.Light but deadly if you know how to use it.,100 DPS,300 critical DPS
+gear1/2,melee,Frantic Sword,Inflicts a critical hit when you have less than 50% health or more than 50% Malaise.The weapon of choice for fighters who like to live dangerously.,137 DPS,285 critical DPS
+gear1/2,melee,Cursed Sword,"One hit and you're dead.So you like to play hardball, do ya?",553 DPS,N/A
+gear1/2,melee,Shovel,Knocks back enemies and bombs.Any object can become a deadly weapon if it's moving fast enough...,144 DPS,N/A
+gear1/2,melee,Spite Sword,"Inflict a critical hit if you took damage less than 8 sec ago, or if you're cursed.A rusty weapon that reveals its power when things get tough.",144 DPS,347 critical DPS
+gear1/2,melee,Valmont's Whip,Ignores shields. Inflicts a critical hit if the tip of the whip strikes the enemy.Popularized by the well-dressed Baron Valmont du Cul.,109 DPS,305 critical DPS
+gear1/2,melee,Wrenching Whip,"Ignores shields, pulls victims toward you and inflicts a critical hit on the 3rd strike.",129 DPS,187 critical DPS
+gear1/2,melee,Impaler,Inflicts a critical hit if the victim is up against a wall.,117 DPS,300 critical DPS
+gear1/2,melee,Sadist's Stiletto,Inflicts a critical hit if the target is bleeding or poisoned.Hit 'em where it hurts.,109 DPS,235 critical DPS
+gear1/2,melee,War Spear,Inflicts a critical hit when you strike several targets at the same time.Greater range but less speed.,149 DPS,306 critical DPS
+gear1/2,melee,Rapier,Inflicts a critical hit immediately after a roll or a parry.It's all in the wrist.,106 DPS,268 critical DPS
+gear1/2,melee,Spiked Boots,Inflicts a critical hit if the kick interrupts an attack.,105 DPS,303 critical DPS
+gear1/2,melee,Hayabusa Boots,The last hit inflicts area-of-effect damage and pushes enemies back.,128 DPS,N/A
+gear1/2,melee,Hayabusa Gauntlets,Inflicts critical hits if the victim has less than 40% HP.UselessUselessUselessUselessUselessUsel...,124 DPS,243 critical DPS
+gear1/2,melee,Torch,Burns your enemies (15 DPS for 2.7 sec).Talk about mood lighting!,109 DPS,15 burning DPS
+gear1/2,melee,Symmetrical Lance,Inflicts critical hits for 6 sec if you quickly kill 2 enemies with this weapon.,192 DPS,288 critical DPS
+gear1/2,melee,Swift Sword,"Inflicts a critical hit if you have an active speed buff.Forget about taking your time. To get real results, strike hard and fast.",137 DPS,208 critical DPS
+gear1/2,melee,Meat Skewer,"The first attack pierces the enemy, placing you behind it. Your next attack inflict critical hits.Now you see me, now you don't.",181 DPS,281 critical DPS
+gear1/2,melee,Giantkiller,Inflicts a critical hit if the victim is an elite enemy or a boss.The bigger they are...,127 DPS,465 critical DPS
+gear1/2,melee,Shrapnel Axes,"Metal shards burst from the axes when you strike enemies, inflicting approximately 130 damage.",157 DPS,130 bonus damage
+gear1/2,melee,Seismic Strike,Provokes terrestrial shock waves that root victims.,131 DPS,N/A
+gear1/2,melee,Flawless,Inflicts critical hits if you haven't taken damage for at least 15 seconds.,104 DPS,270 critical DPS
+gear1/2,melee,Vorpan,Inflicts a critical hit if the enemy is facing you.Grill. Fry. Burn. Reheat.,161 DPS,289 critical DPS
+gear1/2,melee,Tentacle,Ignore shields and project you towards the enemy and inflicts a critical hit if you attack again while bumped.Free hugs!,69 DPS,219 critical DPS
+gear1/2,melee,Flint,Hold the attack to inflict a critical hit and create a flaming trail.The Concierge was always ready to give an extra hand.,224 DPS,400 critical DPS70 shockwave damage
+gear1/2,melee,Flashing Fans(TBS),Repelling a projectile causes you to inflict critical hits for 8 seconds.Use the force Luke...,145 DPS,217 critical DPS
+gear1/2,melee,Scythe Claws(TBS),"Inflicts a critical hit if you previously used the other claw.Allows you to store a weapon in the backpack.
+Recovered from the stinking carcass of Mama Tick. Might come in handy.",119 DPS,430 critical DPS
+gear1/2,melee,Rhythm n' Bouzouki(TBS),"Inflicts critical hits if you strike at the right time. The last hit repeats indefinitely if you keep the tempo going.Hey, get rhythm when you get the blues! Come on, get rhythm when you get the blues...",150 DPS,378 critical DPS
+gear1/2,melee,Crowbar,Inflict critical hits for 8 seconds after destroying a door.Surprisingly effective when eradicating parasites.,174 DPS,284 critical DPS
+gear1/2,ranged,Beginner's Bow,"Ammo: 6Ammo comes back after enemies are killed.
+The Jailer's son was getting pretty good at hunting rats with this...",113 DPS,N/A
+gear1/2,ranged,Multiple-nocks Bow,Ammo: 24Shoots 3 arrows at the same time.,228 DPS,N/A
+gear1/2,ranged,Throwing Knife,Ammo: 8Causes bleeding (22 DPS for 3 sec). Automatically targets the nearest enemy.,14 DPS,22 bleeding DPS
+gear1/2,ranged,Electric Whip,Ignored shields and inflicts 50% of the base damage on nearby enemies. Also inflicts 50 shock DPS around the target for 3 seconds.,112 DPS,201 critical DPS(50 shock DPS)
+gear1/2,ranged,Firebrands,Burns enemies and the ground (19 DPS for 3 sec).Light my fire !,8 DPS,19 burning DPS
+gear1/2,ranged,Frost Blast,Freezes enemies in front of you. No damage if the target is already frozen.,48 DPS,N/A
+gear1/2,ranged,Bow and Endless Quiver,"Unlimited ammo. Last shot is a critical hit!""You can never have too many arrows"" - Legolas",81 DPS,133 critical DPS
+gear1/2,ranged,Marksman's Bow,"Ammo: 8Inflicts a critical hit at long range.
+Slow, but devastating at long range. A sniper's delight.",55 DPS,327 critical DPS
+gear1/2,ranged,Infantry Bow,"Ammo: 5Inflicts a critical hit at close range.
+A bow specially designed for hand-to-hand combat.",68 DPS,189 critical DPS
+gear1/2,ranged,Quick Bow,"Ammo: 15Inflicts a critical hit if the target has 2 or more arrows stuck in its body.
+Speed at the cost of precision.",75 DPS,203 critical DPS
+gear1/2,ranged,Ice Bow,Ammo: 4Briefly freezes enemies.,46 DPS,N/A
+gear1/2,ranged,Heavy Crossbow,"Ammo: 15Shoots several short-range bolts at once.
+Secondary Ability: Reload
+Reload the Heavy Crossbow. The next shot inflicts a critical hit.
+Allows you to store a weapon in the backpack.
+A point-blank blast.",280 DPS,N/A
+gear1/2,ranged,Repeater Crossbow,"Ammo: 40Rapid fires bolts inflicting critical hits on rooted targets.
+Secondary Ability: Quiver of Bolts
+Fires a volley of bolts rooting enemies and inflicting 15 DPS for 3 seconds.
+Allows you to store a weapon in the backpack.",115 DPS,404 critical DPS
+gear1/2,ranged,Hokuto's Bow,"Ammo: 2 †Marks the enemy, who then takes +75 DPS for 20 sec. If the enemy dies, the mark spreads.
+You don't know it yet, but you're already dead.",25 DPS,75 bonus DPS
+gear1/2,ranged,Ice Crossbow,"Ammo: 9Freezes the enemy.
+Secondary Ability: Piercing Shot
+Fires piercing bolts, inflicting critical hits and returning bolts lodged in frozen enemies.
+Allows you to store a weapon in the backpack.",60 DPS,N/A
+gear1/2,ranged,Explosive Crossbow,"Ammo: 4Bolts explode in the area of effect. Any enemy hit by a bolt suffers a critical wound.
+Secondary Ability: Cross Hit
+Hit 'em with the crossbow.
+Allows you to store a weapon in the backpack.",100 DPS,123 critical DPS
+gear1/2,ranged,Nerves of Steel,Ammo: 8Inflicts a critical hit if the arrow is shot at right moment.,50 DPS,213 critical DPS
+gear1/2,ranged,Alchemic Carbine,Poisons its victims (20 DPS for 6 sec).,9 DPS,20 poison DPS
+gear1/2,ranged,Lightning Bolt,Hold to inflict critical hits. Inflicts 50 shock DPS around the target for 3 seconds.Join the dark side.,114 DPS,331 critical DPS(50 shock DPS)
+gear1/2,ranged,Fire blast,Burns enemies and the ground surface in range. Inflicts critical hits when oil is present.Toasts enemies to a rich golden brown.,150 DPS,196 critical DPS
+gear1/2,ranged,Ice Shards,Slows down enemies during 5 sec. Inflicts critical hits on targets standing in water or covered in oil.,58 DPS,87 critical DPS
+gear1/2,ranged,Pyrotechnics,Launches multiple flaming projectiles. Inflicts critical damage on targets covered in oil.,102 DPS,185 critical DPS
+gear1/2,ranged,Boomerang,"Ammo: 1 †Comes back to you automatically.
+Old faithful.",89 DPS,N/A
+gear1/2,ranged,The Boy's Axe,"Ammo: 1Roots the victim. Deals 80 damage when recalled.
+Boi.",110 DPS,214 max DPS
+gear1/2,ranged,War Javelin,"Ammo: 1 †Impales all enemies in its path. If they're close to a wall they take 90 extra damage. The javelin must be retrieved (if not, it comes back automatically after 10 seconds). Reactivate to teleport to the javelin.",110 DPS,N/A
+gear1/2,ranged,Magic missiles,Automatically targets the closest enemy.,111 DPS,N/A
+gear1/2,ranged,Hemorrhage,Ammo: 5Causes bleeding (25 DPS for 3 seconds). Deals a critical hit if the target is bleeding or poisoned.,47 DPS,187 critical DPS(25 bleeding DPS)
+gear1/2,ranged,Sonic Carbine,Ammo: 20Fires through enemies and keeps shooting when held down. Inflict critical hits to the targets behind the first enemy.,167 DPS,167 critical DPS
+gear1/2,ranged,Blowgun(TBS),Ammo: 5Inflicts a critical hit if you hit an enemy from behind.,57 DPS,343 critical DPS
+gear1/2,ranged,Barrel Launcher,Ammo: 1Launches an explosive barrel. Inflicts a critical hit if the barrel bounces off a wall or has been reflected back and forth before exploding.,171 DPS,514 critical DPS
+gear1/2,shield,Old Wooden Shield,Hold to absorb partial damage. Tap to try to parry and block all damage.,15 damage,30 damage
+gear1/2,shield,Greed Shield,A successful parry knocks out enemies' teeth (1 per enemy) and transforms arrows into gold.,40 damage,80 damage
+gear1/2,shield,Cudgel,Stuns blocked enemies. Stuns lasts longer if a parry is successful.,20 damage,40 damage
+gear1/2,shield,Rampart,Absorbs more damage. Generates a force field for 2 sec on a successful parry.,20 damage,40 damage
+gear1/2,shield,Bloodthirsty Shield,Blocked attacks inflict bleeding (20 DPS for 3 sec). Effect extended to nearby enemies on a successful parry.,15 damage (20 bleeding DPS),30 damage (20 bleeding DPS)
+gear1/2,shield,Assault Shield,Blocks attacks while charging forward.,20 damage,40 damage
+gear1/2,shield,Parry Shield,Cannot be held up. Blocked grenades and shots are returned with added power.,N/A,40 damage
+gear1/2,shield,Punishment,Blocked attacks inflict damage to nearby enemies. Critical damage if parry is successful.,50 damage,80 damage
+gear1/2,shield,Knockback Shield,"Blocked attacks knocks enemies back, they take +80 damage if they hit a wall. Double damage for a parry.",30 damage,60 damage
+gear1/2,shield,Spiked Shield,Inflicts major damage on blocked enemies.,70 damage,140 damage
+gear1/2,shield,Force Shield,Generates a temporary force field when held up. It regenerates slowly when the shield is not held up. Parries speed up the process.,40 damage,40 damage
+gear1/2,shield,Front Line Shield,Melee attacks inflict 20% extra damage for 6 seconds after a successful parry.The tears of the community are engraved upon the inside of this shield.,25 damage,50 damage
+gear1/2,shield,Thunder Shield,"Inflicts 65 electric DPS in front of you for 8 seconds when blocking, or all around you after a successful parry. Use again to stun all nearby enemies. Inflicts 50 shock DPS around for 3 seconds.",40 damage(65 electric DPS),40 damage(50 shock DPS)
+gear1/2,shield,Ice Shield,Parrying an attack freezes nearby enemies. Reflected projectiles freeze enemies they hit.,20 damage,40 damage
+gear3/4,traps_turrets,Sinew Slicer,"Fires spinning blades at nearby enemies, inflicting bleeding (10 DPS for 1.5 sec).","20 DPS10 bleeding DPS
+(1.5 sec)",10 seconds
+gear3/4,traps_turrets,Wolf Trap,Launches 2 traps that root enemies increasing damage they take by 34 DPS for 5 seconds.,34 DPS(5 sec),14 seconds
+gear3/4,traps_turrets,Double Crossb-o-matic,Shoots at 2 nearby enemies at the same time. Each shot inflicts 45 DPS.,45 DPS,10 seconds
+gear3/4,traps_turrets,Heavy Turret,Shoots at nearby enemies. You inflict +15% more damage if you're near the turret.,55 DPS(0.8 sec),12 seconds
+gear3/4,traps_turrets,Barnacle,Shoots enemies who pass beneath it.,52 DPS(9 sec),10 seconds
+gear3/4,traps_turrets,Flamethrower Turret,Burns nearby enemies (18 DPS for 2 sec).,18 burning DPS(2 sec),12 seconds
+gear3/4,traps_turrets,Cleaver,Inflicts bleeding (6 DPS for 1.8 sec) on enemies that walk over it.,"50 DPS6 bleeding DPS
+(1.8 sec)",8 seconds
+gear3/4,traps_turrets,Crusher,Slows down then violently crushes enemies caught in its zone.,200 damage,14 seconds
+gear3/4,traps_turrets,Explosive Decoy,Turns you invisible for 2.5 sec and attracts nearby enemies. Explodes after 2.5 sec.,22 damage(2.5 sec),20 seconds
+gear3/4,traps_turrets,Emergency Door,Deploys an ethereal door.,1 damage,10 seconds
+gear3/4,traps_turrets,Tesla Coil,Shoots lightning at nearby enemies and inflicts Shock.,50 DPS15 Shock DPS (0.8 sec),10 seconds
+gear3/4,traps_turrets,The Night Light,Deploys a lantern that grants light which diminishes after a while.,N/A,120 seconds
+gear3/4,grenades,Infantry Grenade,"Quick to use, but not super powerful.",70 damage,4 seconds
+gear3/4,grenades,Ice Grenade,Freezes its victims.,35 damage(5 sec),18 seconds
+gear3/4,grenades,Powerful Grenade,Causes a large explosion.,200 damage,13 seconds
+gear3/4,grenades,Cluster Grenade,Breaks into 6 bombs (50 damage each).,50 damage per bomb(0.4 sc),20 seconds
+gear3/4,grenades,Fire Grenade,Burns nearby enemies (25 DPS for 3 sec).,12 damage 25 burning DPS(3 sec),13 seconds
+gear3/4,grenades,Magnetic Grenade,"Attracts anything nearby, inflicting 5 shock DPS zone damage for 3 seconds.","12 DPS(5.5 sec)
+5 shock DPS
+(3 sec)",16 seconds
+gear3/4,grenades,Stun Grenade,Stuns enemies (2.5 sec).,30 damage(2.5 sec),12 seconds
+gear3/4,grenades,Root Grenade,Roots nearby enemies causing 33 DPS for 4 seconds.,33 DPS(4 sec),16 seconds
+gear3/4,grenades,Oil Grenade,Spreads inflammable oil in its area of effect.,60 damage,10 seconds
+gear3/4,grenades,Swarm,Summons 4 biters to serve you (cumulative up to 8 max).,Not displayed(30 sec),0.8 second
+gear3/4,grenades,Hunter's Grenade,"Use this to annoy a monster. When its health is down to 40% or less, use Blueprint Extractor.Catch 'em all!",N/A,N/A
+gear3/4,power,Tonic,"Grants you 50% of your missing health as bonus health, reduces damage taken by 20% and protects you from the Malaise for 10 seconds.",N/A(10 sec),30 seconds
+gear3/4,power,Death Orb,Creates a slow-moving but devastating orb.,"50 damage125 DPS
+(12 sec)",20 seconds
+gear3/4,power,Tornado,Inflicts damage on all targets caught inside. Changes direction when it hits a wall.,80 DPS(10 sec),24 seconds
+gear3/4,power,Knife Dance,"Launches a storm of knives around you, causing bleeding (40 DPS for 4 sec).","5 damage per knife40 bleeding DPS per knife
+(4 sec)",16 seconds
+gear3/4,power,Corrupted Power,Adds damage (+50 DPS for 8 sec) with each attack. You take +30% damage during this time.,50 DPS(8 sec),16 seconds
+gear3/4,power,Vampirism,Transforms all of your current health and 50% of your missing health into recovery.,N/A(0.75 sec),30 seconds
+gear3/4,power,Grappling Hook,"Pulls an enemy towards you. The next attack on this enemy inflicts +40% damage and stuns for 1 sec.Yes, just like Scorpion...",40% bonus damage(1 sec),3 seconds
+gear3/4,power,Phaser,Teleports you behind the enemy. The next attack inflicts +70 damage.,70 damage,2 seconds
+gear3/4,power,Corrosive Cloud,"Creates a toxic cloud that lasts 15 sec, inflicting bleed and poison damage (8 DPS for 2 sec).","8 bleed DPS8 poison DPS
+(2 sec)",20 seconds
+gear3/4,power,Lacerating Aura,Inflicts damage on nearby targets.,85 DPS(4 sec),12 seconds
+gear3/4,power,Wave of Denial,"Repels all nearby enemies. If an enemy is thrown against a wall, it takes +90 damage.",30 (120) damage(0.8 sec),5 seconds
+gear3/4,power,Wings of the Crow,Causes you to float in the air dealing 50 shock DPS around you for 3 seconds.Craaaawwwww!,"50 damage75 DPS
+50 shock DPS
+(3 sec)",15 seconds
+gear3/4,power,Great Owl of War,Summon a Great Owl pet (32 DPS). Activating this skill again will anger the Great Owl (105 DPS). The Great Owl disappears if you take any damage.,32 (105) DPS,10 seconds34 seconds after buff
+gear3/4,power,Ice Armor,"Covers you in ice that absorbs one attack and explodes freezing nearby enemies. If you don't take a hit it explodes after 8 seconds.So that's what they mean by ""Well preserved""?",10 damage(2 sec),20 seconds
+gear3/4,power,Lightspeed,"Dash forward and inflicts 90 damage to the enemies on the way. Activate again to dash back.Look behind you!
+I said ""Behind"".",90 damage,7-10 seconds
+gear3/4,power,Giant Whistle,Inflict 500 damage to the most dangerous enemy around... most dangerous ACCORDING to the Giant.Give me five!,500 damage(1 sec),20 seconds
+gear3/4,power,Telluric Shock,Leap in the air and violently land back on the ground to inflict 150 damage to the enemies around.Ready to rumble?,150 damage(0.3 sec),10 seconds
+gear3/4,power,Collector's Syringe,"Spin the syringe around you to inflict damage. Activate again to add 40 DPS (up to 5 times) and 5 secs, for a mere few cells.Become the Spin Doctor.","40 base DPS240 max DPS
+(5 base sec)",20 seconds
+gear3/4,power,Smoke Bomb(TBS),Releases a cloud of smoke making you invisible for 8 seconds. The first invisible attack inflicts +50% damage.,1 damage(8 sec),16 seconds
+gear3/4,power,Mushroom Boi!(TBS),Spawns a friendly mushroom boi which charges and interrupts enemies inflicting 50 damage and 100 extra damage if the enemy hits a wall. Trigger it again to inflict 300 damage and violate your soul.,50 (150) damage300 explosion damage,1 second25 seconds after exploding
+gear3/4,power,Blueprint Extractor,Use this on an enemy transformed by the Hunter's Grenade that has less than 40% health left.,N/A,N/A
+gear3/4,power,Forgotten Map,Reveals your surroundings. Only works once.,N/A,N/A
+mutation,brutality,Killer Instinct,Reduces the cooldown of your skills by [0.4 base] sec for each enemy killed in hand to hand combat.,N/A,N/A
+mutation,brutality,Combo,[15% base] damage for 8 seconds after killing an enemy.,N/A,N/A
+mutation,brutality,Vengeance,[15% base] damage dealt for 8 seconds and -60% damage taken for 3 seconds after taking damage.,N/A,N/A
+mutation,brutality,Melee,"Melee attacks slow down enemies for [0.2s base, 0.8s max]. They won't be able to infect you with the Malaise for 1s.",N/A,N/A
+mutation,brutality,Open Wounds,Your close combat attacks inflict bleeding ([18 base] DPS for 1.5 seconds),N/A,N/A
+mutation,brutality,Tainted Flask,"Using a health flask adds +[20% base] damage to your attacks for 12 sec. If your flask is empty it will refill after killing [12 base, 4 max] ""Elite"" enemies.",N/A,N/A
+mutation,brutality,Soldier Resistance,"Increase your health by [2% base, 25% max]. You can only be infected by the Malaise every 1.2 sec.",N/A,N/A
+mutation,brutality,Berserker,"Killing an enemy with a melee attack reduces the damage you take by [10% base, 60% max] for 5 sec. You cannot be infected by the Malaise for 3 sec.",N/A,N/A
+mutation,brutality,Adrenalin,Your melee attacks give you back a small amount of HP depending on attack damage for 3 seconds after dodging an attack at the last moment.,N/A,N/A
+mutation,brutality,Frenzy,Your melee attacks give you back a small amount of HP depending on attack damage as long as you have an active speed buff.,N/A,N/A
+mutation,tactics,Hunter's Instinct,Decreases skill cooldowns by [0.3 base] sec for each enemy killed without using melee attacks.,N/A,N/A
+mutation,tactics,Support,[10% base] damage if you're close to a deployed skill.,N/A,N/A
+mutation,tactics,Parting Gift,Causes a bomb ([75 base] damage) to appear when you kill an enemy with a non-melee attack.,N/A,N/A
+mutation,tactics,Tranquility,[25% base] damage if there are no enemies near you.,N/A,N/A
+mutation,tactics,Ripper,"Hand to hand attacks cause 3 arrows stuck in the attacked enemy to fall out, each one dealing [95 base] damage.",N/A,N/A
+mutation,tactics,Scheme,Your next melee attack after using a skill inflict +[180 base] damage.,N/A,N/A
+mutation,tactics,Initiative,Your first melee strike against an enemy inflicts +[100 base] damage.,N/A,N/A
+mutation,tactics,Predator,"Killing an enemy with a melee strike makes you invisible for [1 base, 3.5 max] seconds.",N/A,N/A
+mutation,tactics,Networking,"Enemies with arrows stuck in them share [20% base, 75% max] of the damage they receive.",N/A,N/A
+mutation,tactics,Crow's Foot,"Rolling leaves 3 crow's feet behind you (with a maximum of 9), inflicting [50 base] damage and slowing the enemies for 1.5 seconds.",N/A,N/A
+mutation,tactics,Tactical Retreat,"Dodging an attack at the last moment slows down nearby enemies for [1 base, 3 max] seconds. They can no longer infect you with the Malaise during 3 seconds.",N/A,N/A
+mutation,survivor,Blind Faith,"Reduces the cooldown on your skills by [2.5 base, 5 max] sec with each successful parry.",N/A,N/A
+mutation,survivor,Counterattack,The attacks following a successful parry inflicts +[180 base] damage.,N/A,N/A
+mutation,survivor,What Doesn't Kill Me,"Recover [1% base, 3% max] HP after parrying a melee attack.",N/A,N/A
+mutation,survivor,Necromancy,"Recover [0.2% base, 1.7% max] HP when an enemy dies, up to 50% HP. Reduces your infection level when you kill a boss.",N/A,N/A
+mutation,survivor,Extended Healing,"Your health flask heals 85%, its effect is spread over 15 seconds and you deal + [25% base] damage during this time. Killing an Elite will occasionally heal some Malaise.",N/A,N/A
+mutation,survivor,Gastronomy,The effect of food is increases by +100%. If you recycle food you deal +[10% base] damage for 300 seconds.,N/A,N/A
+mutation,survivor,Spite,Successful parries and reflected shots inflict [120 base] damage.,N/A,N/A
+mutation,survivor,Frostbite,Enemies suffer [40 base] DPS while they are slowed down.,N/A,N/A
+mutation,survivor,Heart of Ice,"Striking a frozen, stunned, slowed or rooted enemy reduces skill cooldowns by [1 base, 3 max] seconds.",N/A,N/A
+mutation,colorless,Instinct of the Master of Arms,Reduces the cooldown on your skills by [0.08 base] sec with each critical hit.,N/A,N/A
+mutation,colorless,Ammo,Ammo for your weapons x 2.,N/A,N/A
+mutation,colorless,Ygdar OrusLi Ox,Saves you ONE TIME if you die prematurely. Cannot be dropped once picked up.,N/A,N/A
+mutation,colorless,Recovery,Time available to recover your health after a hit is multiplied by 2.,N/A,N/A
+mutation,colorless,Emergency Triage,Health potions only restore 45% HP but their use speed is increased by 300% and it completely protects you for 3 sec.,N/A,N/A
+mutation,colorless,Velocity,Running speed duration bonus (for kill combo) multiplied by 3.,N/A,N/A
+mutation,colorless,Dead Inside,50% HP. Food no longer heals you. Your infection counter is increased by +6.,N/A,N/A
+mutation,colorless,Alienation,Reducing a curse restores 5% HP but increases the number of enemies required to lift the curse by 50%.Reducing a curse 5 times removes 2 Malaise.,N/A,N/A
+mutation,colorless,Acceptance,Removing a curse requires killing 50% less enemies. Consuming food curses you.,N/A,N/A
+mutation,colorless,Masochist,Trap damage is capped at 10% of your max HP. When hit by a trap your movement speed increases by 20% for 20 sec.,N/A,N/A
+mutation,colorless,Disengagement,"If your HP falls below 20%, a force field protects you for 5 sec. Can only be used every 120 sec.",N/A,N/A
