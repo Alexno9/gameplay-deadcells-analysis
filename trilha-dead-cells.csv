@@ -1,4 +1,4 @@
-run_id,lastDungeon,gear01,gear01ScaleWith,gear02,gear02ScaleWith,gear03,gear03ScaleWith,gear04,gear04ScaleWith,Brutality,Tactical,Survivor,totalScrolls,bonusColar,lifeValue,mutation01,mutation02,mutation03,beatGiant?,beatConjuntivictus?,beatMotherFlea?,beatTimeGuardian?,beatTheGiant?,beatHandOfTheKing?,deathBy,death?
+run_id,lastDungeon,gear01,gear01ScaleWith,gear02,gear02ScaleWith,gear03,gear03ScaleWith,gear04,gear04ScaleWith,Brutality,Tactical,Survivor,totalScrolls,bonusColar,lifeValue,mutation01,mutation02,mutation03,beatConcierge?,beatConjuntivictus?,beatMotherFlea?,beatTimeGuardian?,beatTheGiant?,beatHandOfTheKing?,deathBy,death?
 1,pico-do-castelo,quick-bow,tatica,greed-shield,survivor,oil-grenade,brutal/tatica,owl-of-war,tatica,4,7,13,10,-,-,-,-,-,1,0,0,1,0,0,hand of the king,1
 2,pico-do-castelo,pyrotechnics,tatica,alchemic-carbine,brutal/tatica,sinew-slicer,tatica,wolf-trap,tatica/survivor,5,20,8,18,-,-,-,-,-,1,0,0,1,0,0,hand of the king,1
 3,santuario,broadsword,brutal/survivor,cudgel,survivor,phaser,brutal/tatica,sinew-slicer,tatica,6,3,12,8,-,-,-,-,-,1,0,0,0,0,0,golem,1
