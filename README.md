@@ -38,8 +38,10 @@ Quais informações podemos extrair deste projeto?
 - Qual a frequência de escolha nos status de equipamento (Brutalidade, Tática e Sobrevivência)?
 - Análise do crescimento dos status de equipamento em série temporal utilizando dados coletados de um gameplay completo.
 
-...Tabela com os dados referentes a todas as armas em andamento...
-
-
-
-
+Colunas do dataset "gear-data.csv":
+- gearPosition
+- class
+- name
+- description
+- base dps
+- base special dps
