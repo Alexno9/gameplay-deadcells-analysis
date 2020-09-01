@@ -38,7 +38,11 @@ if st.checkbox('Show Time Data'):
     st.write(df_temporal)
 
 st.header("Equipamentos utilizados contra Concierge, Time Guardian e Hand of The King!!")
-filtro_result = st.slider("You Win(1) or You Died(0)?", 0, 1, 0)
+filtro_result = st.radio("You Win(1) or You Died(0)?", ('0', '1'))
+if filtro_result == '0':
+    filtro_result = '0'
+else:
+    filtro_result = '1'
 
 dfBossA = df_geral[df_geral["beatConcierge?"] == filtro_result]
 dfBossB = df_geral[df_geral["beatTimeGuardian?"] == filtro_result]
