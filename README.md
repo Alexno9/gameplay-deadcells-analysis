@@ -47,3 +47,13 @@ Colunas do dataset "gear-data.csv":
 - description
 - base dps
 - base special dps
+
+![Alt text](https://raw.github.com/Alexno9/gameplay-deadcells-analysis/blob/master/Screenshot_1.png)
+
+![Alt text](https://raw.github.com/Alexno9/gameplay-deadcells-analysis/blob/master/Screenshot_2.png)
+
+![Alt text](https://raw.github.com/Alexno9/gameplay-deadcells-analysis/blob/master/Screenshot_3.png)
+
+![Alt text](https://raw.github.com/Alexno9/gameplay-deadcells-analysis/blob/master/Screenshot_4.png)
+
+![Alt text](https://raw.github.com/Alexno9/gameplay-deadcells-analysis/blob/master/Screenshot_5.png)
