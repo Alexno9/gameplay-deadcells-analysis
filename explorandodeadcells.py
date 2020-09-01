@@ -40,11 +40,26 @@ if st.checkbox('Show Time Data'):
 st.header("Equipamentos utilizados naquela luta contra tal... chefe!!")
 
 st.subheader("Escolha qual luta contra o chefe e escolha qual o resultado")
-filtro_boss = st.selectbox("Choose one Boss..", ("beatConcierge?", "beatConjuntivictus?", "beatMotherFlea?", "beatTimeGuardian?", "beatGiant?", "beatHandofTheKing?"))
-sr.write(filtro_boss)
-filtro_result = st.slider("You Win(1) or You Died(0)?", 0, 1, 0)
+filtro_boss = st.radio("Choose one Boss", ('beatConcierge?', 'beatConjuntivictus?', 'beatMotherFlea?', 'beatTimeGuardian?', 'beatTheGiant?', 'beatHandOfTheKing?'))
+filtro_result = st.radio("You Win(1) or You Died(0)?", (0, 1))
 
-dfBar = df_geral[df_geral[filtro_boss] == filtro_result]
+if filtro_result == 0:
+    filtro_result = 0
+else:
+    filtro_result = 1
+
+if filtro_boss == 'beatConcierge?':
+    dfBar = df_geral[df_geral['beatConcierge?'] == filtro_result]
+else if filtro_boss == 'beatConjuntivictus?':
+    dfBar = df_geral[df_geral['beatConjuntivictus'] == filtro_result]
+else if filtro_boss == 'beatMotherFlea?':
+    dfBar = df_geral[df_geral['beatMotherFlea?'] == filtro_result]
+else if filtro_boss == 'beatTimeGuardian?':
+    dfBar = df_geral[df_geral['beatTimeGuardian?'] == filtro_result]
+else if filtro_boss == 'beatTheGiant?':
+    dfBar = df_geral[df_geral['beatTheGiant?'] == filtro_result]
+else if filtro_boss == 'beatHandOfTheKing?':
+    dfBar = df_geral[df_geral['beatHandOfTheKing?'] == filtro_result]
 
 # Monta 4 tipos de dataframe com o agrupamento dos equipamentos mais utilizados
 
