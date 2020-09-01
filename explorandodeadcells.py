@@ -87,5 +87,5 @@ chartData = df_temporal[['time', 'brutality', 'tactical', 'survivor']]
 st.line_chart(chartData)
 
 st.subheader('Quantidade de pergaminhos de acordo com o tempo')
-chartscroll = df_temporal[['time', 'scrollCylinder']]
+chartscroll = df_temporal[['time', 'scroll_cylinder']]
 st.line_chart(chartscroll)
