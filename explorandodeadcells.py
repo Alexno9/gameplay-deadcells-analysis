@@ -50,15 +50,15 @@ else:
 
 if filtro_boss == 'beatConcierge?':
     dfBar = df_geral[df_geral['beatConcierge?'] == filtro_result]
-else if filtro_boss == 'beatConjuntivictus?':
+if filtro_boss == 'beatConjuntivictus?':
     dfBar = df_geral[df_geral['beatConjuntivictus'] == filtro_result]
-else if filtro_boss == 'beatMotherFlea?':
+if filtro_boss == 'beatMotherFlea?':
     dfBar = df_geral[df_geral['beatMotherFlea?'] == filtro_result]
-else if filtro_boss == 'beatTimeGuardian?':
+if filtro_boss == 'beatTimeGuardian?':
     dfBar = df_geral[df_geral['beatTimeGuardian?'] == filtro_result]
-else if filtro_boss == 'beatTheGiant?':
+if filtro_boss == 'beatTheGiant?':
     dfBar = df_geral[df_geral['beatTheGiant?'] == filtro_result]
-else if filtro_boss == 'beatHandOfTheKing?':
+if filtro_boss == 'beatHandOfTheKing?':
     dfBar = df_geral[df_geral['beatHandOfTheKing?'] == filtro_result]
 
 # Monta 4 tipos de dataframe com o agrupamento dos equipamentos mais utilizados
