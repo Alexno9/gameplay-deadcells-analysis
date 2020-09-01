@@ -48,12 +48,12 @@ Colunas do dataset "gear-data.csv":
 - base dps
 - base special dps
 
-![Alt text](https://raw.github.com/Alexno9/gameplay-deadcells-analysis/blob/master/Screenshot_1.png)
+![Alt text](https://github.com/Alexno9/gameplay-deadcells-analysis/raw/master/Screenshot_1.png)
 
-![Alt text](https://raw.github.com/Alexno9/gameplay-deadcells-analysis/blob/master/Screenshot_2.png)
+![Alt text](https://github.com/Alexno9/gameplay-deadcells-analysis/raw/master/Screenshot_2.png)
 
-![Alt text](https://raw.github.com/Alexno9/gameplay-deadcells-analysis/blob/master/Screenshot_3.png)
+![Alt text](https://github.com/Alexno9/gameplay-deadcells-analysis/raw/master/Screenshot_3.png)
 
-![Alt text](https://raw.github.com/Alexno9/gameplay-deadcells-analysis/blob/master/Screenshot_4.png)
+![Alt text](https://github.com/Alexno9/gameplay-deadcells-analysis/raw/master/Screenshot_4.png)
 
-![Alt text](https://raw.github.com/Alexno9/gameplay-deadcells-analysis/blob/master/Screenshot_5.png)
+![Alt text](https://github.com/Alexno9/gameplay-deadcells-analysis/raw/master/Screenshot_5.png)
