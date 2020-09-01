@@ -38,36 +38,22 @@ if st.checkbox('Show Time Data'):
     st.write(df_temporal)
 
 st.header("Equipamentos utilizados contra Concierge, Time Guardian e Hand of The King!!")
-filtro_result = st.radio("You Win(1) or You Died(0)?", ('0', '1'))
-if filtro_result == '0':
-    filtro_result = '0'
-else:
-    filtro_result = '1'
 
-dfBossA = df_geral[df_geral["beatConcierge?"] == filtro_result]
-dfBossB = df_geral[df_geral["beatTimeGuardian?"] == filtro_result]
-dfBossC = df_geral[df_geral["beatHandOfTheKing?"] == filtro_result]
+filtro_boss = st.radio("Choose your Boss...", ('beatConcierge?', 'beatConjuntivictus?', 'beatMotherFlea?', 'beatTimeGuardian?', 'beatTheGiant?', 'beatHandOfTheKing?'))
+filtro_result = st.radio("You Win(1) or You Died(0)?", ('0', '1'))
+
+dfBoss = df_geral[df_geral[filtro_boss] == filtro_result]
 
 # Monta 4 tipos de dataframe com o agrupamento dos equipamentos mais utilizados
 
-df01 = dfBossA["gear01"].value_counts()
-df02 = dfBossA["gear02"].value_counts()
-df03 = dfBossA["gear03"].value_counts()
-df04 = dfBossA["gear04"].value_counts()
-
-df05 = dfBossB["gear01"].value_counts()
-df06 = dfBossB["gear02"].value_counts()
-df07 = dfBossB["gear03"].value_counts()
-df08 = dfBossB["gear04"].value_counts()
-
-df09 = dfBossC["gear01"].value_counts()
-df10 = dfBossC["gear02"].value_counts()
-df11 = dfBossC["gear03"].value_counts()
-df12 = dfBossC["gear04"].value_counts()
+df01 = dfBoss["gear01"].value_counts()
+df02 = dfBoss["gear02"].value_counts()
+df03 = dfBoss["gear03"].value_counts()
+df04 = dfBoss["gear04"].value_counts()
 
 # Apresenta os equipamentos em gráficos de barra
 
-st.header('Concierge')
+st.header(filtro_boss)
 st.subheader('Armas')
 st.bar_chart(df01)
 st.bar_chart(df02)
@@ -76,33 +62,10 @@ st.subheader('Habilidades')
 st.bar_chart(df03)
 st.bar_chart(df04)
 
-st.header('Time Guardian')
-st.subheader('Armas')
-st.bar_chart(df05)
-st.bar_chart(df06)
-
-st.subheader('Habilidades')
-st.bar_chart(df07)
-st.bar_chart(df08)
-
-st.header('Hand Of The King')
-st.subheader('Armas')
-st.bar_chart(df09)
-st.bar_chart(df10)
-
-st.subheader('Habilidades')
-st.bar_chart(df11)
-st.bar_chart(df12)
-
 st.header("Dados Gerais (em construção)")
-
 st.subheader("A Morte Percorre esses Muros...")
 chartDungeon = df_geral["lastDungeon"].value_counts()
 st.bar_chart(chartDungeon)
-
-st.subheader('Morreu...Que pena...Quantos pergaminhos mesmo?')
-chartStatus = df_geral.groupby("lastDungeon").mean()[["totalScrolls"]]
-st.table(chartStatus)
 
 st.header("Time Series Data")
 
