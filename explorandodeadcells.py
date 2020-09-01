@@ -41,6 +41,7 @@ st.header("Equipamentos utilizados naquela luta contra tal... chefe!!")
 
 st.subheader("Escolha qual luta contra o chefe e escolha qual o resultado")
 filtro_boss = st.selectbox("Choose one Boss..", ("beatConcierge?", "beatConjuntivictus?", "beatMotherFlea?", "beatTimeGuardian?", "beatGiant?", "beatHandofTheKing?"))
+sr.write(filtro_boss)
 filtro_result = st.slider("You Win(1) or You Died(0)?", 0, 1, 0)
 
 dfBar = df_geral[df_geral[filtro_boss] == filtro_result]
