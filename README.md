@@ -28,7 +28,9 @@ Colunas do dataset "trilha-deadcells.csv":
 - mutation03
 - beatConcierge?
 - beatConjuntivictus?
+- beatMotherFlea?
 - beatTimeGuardian?
+- beatTheGiant?
 - beatHandOfTheKing?
 - deathBy
 - death?
